@@ -37,7 +37,7 @@ plt.ylabel('$Y-axis$')
 plt.legend(loc='best')
 plt.grid() # minor
 plt.axis('equal')
-plt.title('Sum of two unit vectors',size=15)
+plt.title('Angle between Dot and Cross Product',size=15)
 #if using termux
 plt.savefig('/sdcard/Documents/Python/figs/vector')
 #plt.show()
